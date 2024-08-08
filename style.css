@@ -1,0 +1,43 @@
+.navbar{
+    width: auto;
+    
+    background-color: lightgray;
+}
+
+body {
+    background: url(https://cdn.discordapp.com/attachments/738974839330570240/1270807255494950973/Pngtreegeometry_vectors_abstract_geo_different_1345578_2.png?ex=66b50afc&is=66b3b97c&hm=0296b16d708f1e1a0e4e4aaa5d01d659935f646eaa54fb217a8118ff9834e6d3&);
+}
+
+.navbar-brand{
+    height:auto;
+    
+
+}
+
+.space{
+    height: 150px;
+}
+.space-2{
+    height: 200px;
+}
+.space-3{
+    height: 30px;
+}
+.box {
+    height: 450px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+}
+
+.box-2{
+    height: 450px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    
+}
+.box-3{
+    height: 450px;
+    width: 600px;
+    background-color: rgb(255, 255, 255);
+}
+
